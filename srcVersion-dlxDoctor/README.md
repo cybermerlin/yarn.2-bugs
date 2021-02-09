@@ -1,8 +1,10 @@
+```
 node: 15.7.0
 npm: 7.5.0
 yarn (in shell): 1.22.10
 yarn (in product): 2.4.0-git.20210130.hash-b5b9abf4
 lerna: 3.22.1
+```
 
 
 1. `PNP_DEBUG_LEVEL=1`
