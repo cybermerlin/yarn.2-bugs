@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "incremental": true,
+    "strictNullChecks": true,
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "declaration": true,
+    "declarationMap": true,
+    "emitDeclarationOnly": true,
+    "noErrorTruncation": true,
+    "plugins": [
+      {
+        "name": "typescript-styled-plugin",
+        "validate": false
+      }
+    ],
+    "skipLibCheck": true,
+    "strict": false,
+    "target": "ESNext",
+    "resolveJsonModule": true,
+    "preserveWatchOutput": true,
+    "pretty": true
+  },
+  "exclude": ["**/*.stories.tsx", "**/*.test.tsx", "**/*.test.ts"]
+}

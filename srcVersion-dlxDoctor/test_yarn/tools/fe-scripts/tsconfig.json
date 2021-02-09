@@ -1,0 +1,16 @@
+{
+  "extends": "./configs/tsconfig.json",
+  "compilerOptions": {
+    "allowJs": false,
+    "composite": false,
+    "rootDir": "./src",
+    "baseUrl": "./src",
+    "module": "CommonJS",
+    "target": "ESNext",
+    "emitDeclarationOnly": false,
+    "noEmit": true,
+    "typeRoots": ["../../node_modules/@types", "../node_modules/@types", "./node_modules/@types", "./@types"]
+  },
+  "include": ["src"],
+  "exclude": ["*.stories.*"]
+}

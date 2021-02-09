@@ -1,0 +1,3233 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "signature": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "signature": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.d.ts": {
+        "version": "e21c071ca3e1b4a815d5f04a7475adcaeea5d64367e840dd0154096d705c3940",
+        "signature": "e21c071ca3e1b4a815d5f04a7475adcaeea5d64367e840dd0154096d705c3940",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.esnext.d.ts": {
+        "version": "fc7a21dd3ee27fd0a9ff1c46534efcd9c3cec51a445b479bb326d871c0aa8302",
+        "signature": "fc7a21dd3ee27fd0a9ff1c46534efcd9c3cec51a445b479bb326d871c0aa8302",
+        "affectsGlobalScope": false
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
+        "signature": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "signature": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
+        "signature": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "signature": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+        "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2019.array.d.ts": {
+        "version": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "signature": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2019.object.d.ts": {
+        "version": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "signature": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2019.string.d.ts": {
+        "version": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "signature": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+        "version": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "signature": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
+        "version": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "signature": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.promise.d.ts": {
+        "version": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
+        "signature": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts": {
+        "version": "e7e8e1d368290e9295ef18ca23f405cf40d5456fa9f20db6373a61ca45f75f40",
+        "signature": "e7e8e1d368290e9295ef18ca23f405cf40d5456fa9f20db6373a61ca45f75f40",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.string.d.ts": {
+        "version": "faf0221ae0465363c842ce6aa8a0cbda5d9296940a8e26c86e04cc4081eea21e",
+        "signature": "faf0221ae0465363c842ce6aa8a0cbda5d9296940a8e26c86e04cc4081eea21e",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts": {
+        "version": "936d7d2e8851af9ccfa5333b15e877a824417d352b1d7fd06388639dc69ef80a",
+        "signature": "936d7d2e8851af9ccfa5333b15e877a824417d352b1d7fd06388639dc69ef80a",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.intl.d.ts": {
+        "version": "31e8df2398e328077079c17ea4f1664bad0a34adf8b0608837e504e310e329a1",
+        "signature": "31e8df2398e328077079c17ea4f1664bad0a34adf8b0608837e504e310e329a1",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "signature": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.esnext.string.d.ts": {
+        "version": "fb4416144c1bf0323ccbc9afb0ab289c07312214e8820ad17d709498c865a3fe",
+        "signature": "fb4416144c1bf0323ccbc9afb0ab289c07312214e8820ad17d709498c865a3fe",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.esnext.promise.d.ts": {
+        "version": "cd6efb9467a8b6338ece2e2855e37765700f2cd061ca54b01b33878cf5c7677e",
+        "signature": "cd6efb9467a8b6338ece2e2855e37765700f2cd061ca54b01b33878cf5c7677e",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.esnext.weakref.d.ts": {
+        "version": "1e61418f41d404e744b6536af9f8c6f6674dd4d54c12335cd0c4f7eded69cf3f",
+        "signature": "1e61418f41d404e744b6536af9f8c6f6674dd4d54c12335cd0c4f7eded69cf3f",
+        "affectsGlobalScope": true
+      },
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.esnext.full.d.ts": {
+        "version": "d96fa8a56871904776165ceb8e00bd56127e1a017bb2664cae76223b5f815141",
+        "signature": "d96fa8a56871904776165ceb8e00bd56127e1a017bb2664cae76223b5f815141",
+        "affectsGlobalScope": false
+      },
+      "./src/utils/supportMessages.ts": {
+        "version": "9bfaef1ee81ccbd716d02ae5dfc1031e21161ed00fe7df1f506eb2d37f3e5504",
+        "signature": "47aebc2b0fe656e9cb95abad9d3ba895b75cd14da29eae945fa300354ff1bcd6",
+        "affectsGlobalScope": false
+      },
+      "./src/index.ts": {
+        "version": "1f8d49b7feea8d89cd8ebe3906cc488077412b5902668d832f21b876ceb552dd",
+        "signature": "f667f6b1d66ba55f0dcd27f5ff050063fecfe289bad00e8c5d48344a775c1439",
+        "affectsGlobalScope": false
+      },
+      "./src/utils/changeset-git.ts": {
+        "version": "30033618ee24d336855514e1979b59e3ff4935fd2c8de785914fea2572bc73a3",
+        "signature": "77c29b002ff86ffea401f658a3a2d464579d09741a47d09973d35e2111591a2e",
+        "affectsGlobalScope": false
+      },
+      "./src/utils/types/package.json.typings.ts": {
+        "version": "09b84ac7aa90ad250f38dac91299fc74595869ddf1db0319312a67be358d8214",
+        "signature": "a1ab117cea7ebf7c97d6e2f25c86b0b080d24594eee3189217f5b3c95614face",
+        "affectsGlobalScope": false
+      },
+      "./src/utils/types/index.ts": {
+        "version": "6186a008fdd655a755d020bfb6b9e91fef152f1c9acb7c30c974222d77a0f5af",
+        "signature": "4648191924bdbbdc8e09fdbcb55339f27a63bac676ba900f17a26eaacf9d9a43",
+        "affectsGlobalScope": false
+      },
+      "./src/utils/assert.ts": {
+        "version": "aa05a9d36df53d288aadeeecac08d3df53382265556520e352ae6c18344af2f5",
+        "signature": "f2becf5c937b3adadc3f59331ec2ca3bf6a585a3f39d1563e6c02623c8564afa",
+        "affectsGlobalScope": false
+      },
+      "./src/utils/getPackage.ts": {
+        "version": "8470323c7ec2443cf5aa8b36eb772f92944922f7f6224aad1f2eea44738d26fc",
+        "signature": "9a9a490223db64500a5f3b8c70eacbc70ba4b3827f299c468f51c0e29436adca",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/webpackProxyConfigs/getKuberProxyConfig.ts": {
+        "version": "9185711d7e9c41cd7553a078cbc34034dfa102dfde02c324840977e659a038b4",
+        "signature": "9ff2e1b4bce722cc45c5f4d18d7e5082bfbffd028762f858dbb2bdd5d3c2c803",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/webpackProxyConfigs/getComposeProxyConfig.ts": {
+        "version": "96f1019244e1953b791fde7c9c093e78354f9a6f831da5035a34c9d5bd2efee5",
+        "signature": "8eb958f931da868edd24b8faf714a7aa0a84013ddd1b789660c78fd60adcbf95",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/webpackProxyConfigs/getCustomProxyConfig.ts": {
+        "version": "4ccf3cca2d16bf7ad52b74687538961f3e44bbccf63b015b885886af36dcc2b7",
+        "signature": "85851b9601cc23a65f7ddcc750ff4c6d4637e9e5e2dce7273b9dc6f64128e65d",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/webpackProxyConfigs/getSettingsByEnvironment.ts": {
+        "version": "764c26bdc615f64b50443c7c7ab8185c60d9f13aa0be0170cf21a28a48ac42df",
+        "signature": "0f69bb37e1343376dfc48ef68592690cdcd78a596265b1b075cac61f10ea49f2",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/components/getPlugins/const/DEFAULT_PLUGINS.ts": {
+        "version": "1a2bb04913ec97a34ee02ee6d761bc656f4cd45b94d693b393671ce62ae2ab2f",
+        "signature": "1767acd4e75d0e79c039ecd7341d577c5af448ea9cdb47fe7d2ee242365dbb75",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/paths.ts": {
+        "version": "c65a1f5e7efac94c54c8760fdaba033b110c3cf2fe0be824c5f08b7a6ad9cf4f",
+        "signature": "126925088b943a3be5dd8468d66182efd32e51ebb23e65072e40a74dd92b7021",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/components/getPlugins/const/HTML_WEBPACK_PLUGINS.ts": {
+        "version": "b2a2e25a5724005fba885ab7ced338ca839a6fe21bc4845d58c4083f593e2558",
+        "signature": "32fb33e4de33022b1dbe6f6756e963fb042905f25d5b21a20a5c0fe900df37b4",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/components/getPlugins/const/DEFAULT_PROD_PLUGINS.ts": {
+        "version": "b850c0c77b328f724334bd70ae4cfbb391a535f3661415c343f374e74ee92625",
+        "signature": "1a56fa0e917d12cc1869177b12f5f21a0e4b50c512ebedfde456943f196c46e8",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/components/getPlugins/const/GIT_REVISION_PLUGINS.ts": {
+        "version": "7a56dd3f9d684e3c6eed902eb9d0070ea41f9e73ba6d77e0e26a37f205c42df7",
+        "signature": "0b9e812da19762aa42424681b96ec1fd2b65906d08e855a870d23189ca1b9b88",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/components/getPlugins/getPlatformEnvironment.ts": {
+        "version": "9d9689896a20479c7299c341627f5200ad82f3b5c0fac87e0bb1e2990684b6b9",
+        "signature": "55626b13dc49664626a2d8e55aefb5057a433bcc54fd5061cbe0bc1f72478b36",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/components/getPlugins/const/BUNDLE_ANALYZER_PLUGIN.ts": {
+        "version": "9f77ff7d150f02bbe12bbc9a35e421183980efb123015d759d8814fb052342f5",
+        "signature": "aee2fc8656eabcf5e5cad1cc7876b1827a6f0580e2bf156079aea08363ba466e",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/components/getPlugins/const/DEFAULT_DEV_PLUGINS.ts": {
+        "version": "fb811c053a6b33dc4278ac265ff6852d37c81e684606d9befc4ccf44b2c32e25",
+        "signature": "a3ea6b62ef4ad3d47a7ef6fe48b98a7946a01a205cfefbf07be35be041955c5e",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/components/getPlugins/interface/GetPlugins.ts": {
+        "version": "3f29c1fbe8d7657508e2649f90e29feee2dadb0155d9ba40155b337a55e2d686",
+        "signature": "ceec4bb6029f63b9b16c08e61db0dd30137e427b2d03dd240cb9013e3584ddc8",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/components/getPlugins/const/DUPLICATE_PACKAGE_CHECKER_PLUGIN.ts": {
+        "version": "ebbb48914af19a0d73214831ba34b8d53a17ef2079a231a8207e2617687c3b2f",
+        "signature": "cd7060daa9d52e812a3696b2a351c0a9cc00fb175a5339da95b599fc93d17ddf",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/packageLoader/compilerFS.ts": {
+        "version": "21f93f22b63c5e99b6bfcc5c1b686138fd7038926ca4a81f34cdde2741771356",
+        "signature": "97be458830ccc22b28eab95a6720b3f53649d8557558e8126da4ed860d264484",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/packageLoader/abstractCopier.ts": {
+        "version": "098d4e4f2401643d197bb66960836ef01e58b0ba38880d37372d59b3ef14db83",
+        "signature": "0305d5e18a8332171a0bc59cc8c65491494c9881106afdc68847e4b1d71e14ca",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/packageLoader/packageCopier.ts": {
+        "version": "6361518e35ec9c89128ca92f7f750c6f63abe9a00b048a6c8b2956bdb4a3e117",
+        "signature": "4ffc2c49c3f7202583e3b403adfbb58487d780549cb5700405a608a81f118eb8",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/packageLoader/packageSymlinker.ts": {
+        "version": "7dab3d1d2032f604ade7d7398c5297da454425c56c521cbf08a87b37ce366d9d",
+        "signature": "50bea1506a7cd9e1b43a2ca9c449ac73b87a530747d574d8de3e9ab52a0ed6ae",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/packageLoader/index.ts": {
+        "version": "c7f6fdafe332310f40843abb757af353b07902f0ff179ea54e610bfb746f80bf",
+        "signature": "dcd0fd2543940c6839f784e628c4ccc6de28fe85c8f50f1ff7ae5ef9475aeb9f",
+        "affectsGlobalScope": true
+      },
+      "./src/webpack/components/getPlugins/const/PACKAGE_LOADER_PLUGIN.ts": {
+        "version": "c2ba7cf408d7d14e0edd133628150d4a574b3c1211a299241972eb9625a2b273",
+        "signature": "bcb683175a6b28ed25ce79b290169f7abc494879ea12caf0be90d38a98a57cdd",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/components/getPlugins/const/COPY_PLUGIN.ts": {
+        "version": "1ddaced03d13b4c5157796b960011fa85aa82690f42d5b171ab529f8767d8c0a",
+        "signature": "4fc8734687929a7d4a728adfd9129c369c40704dcf97d69c989213c458b9a2f0",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/components/getPlugins/getPlugins.ts": {
+        "version": "6a7401d6a8af23a5cba571f7bb3ac9e4216384972a5a976c5c75e7fdbfaed4e8",
+        "signature": "cc3912779809fe70f4d3b61bc079375556fa6de49187e1e5dedd8583eca29142",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/interface/BuildOptions.ts": {
+        "version": "e580dee2ca647b7a027fc3ef880d441cdbded7e25f506d76781dd1745be94381",
+        "signature": "8ebd9c0cb4dd05ebdcccb985bca03e9d3b18e4fce0fea094342808f8408eca44",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/const/threadLoader.ts": {
+        "version": "3bba9170e08a3d2e34a07a4e95c020edace0d3bed90d81ce1ef76df419a0b4f1",
+        "signature": "50c96c021c7099c41a213d3e26cff765f383a6a31351d83880797a91017d9710",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/components/getPluginsMinimizer/const/TERSET_PLUGIN.ts": {
+        "version": "0a52596aa963c01109c73ae17b04764d1df22b87227b9239e2b138323e0d268a",
+        "signature": "5c36dd54c0277b8c33b3e500433809f425b5daab81b14da5d5208763732b57d8",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/components/getPluginsMinimizer/const/OPTIMIZER_CSS_ASSETS_PLUGIN.ts": {
+        "version": "cd83c82891729f6841f0d74401b63ce6c69f25482f7cef944953f8198fe6981c",
+        "signature": "6dbc59cbaf3a61bbe76cb396ba68e44018c858d1560eaef08ca1d35fda615019",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/components/getPluginsMinimizer/getPluginsMinimizer.ts": {
+        "version": "8d9bc1ab21a31d406d3c7eb76ecb653c58258616f7ba43c46d3da0116b18b893",
+        "signature": "db853aa72c60514d4735e428719e805c354e9b13d01c3c6c00248e45823ddece",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/webpack.config.ts": {
+        "version": "2731f791ddf6a9deaf75e9e717f687a9be521004234e42f5571c7218a05689ea",
+        "signature": "3396435bb8ffa3d8b4b8d8c4dd855238ad7273648cc8aeba525cccbe7f522118",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/builder.ts": {
+        "version": "c8821fac65c5835895590d4dcea5d22210091c5b4a4977c1f0822fcd2a35e997",
+        "signature": "fcefdab5b8026b967499a3910b93f1083e8bfb69a64ef1f6bac6e7734a70109c",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/build/handler.ts": {
+        "version": "bceb44cd1bc024291dd7e1c1b4506c8ca0e76a55264de7b2284c4a340c2adfb3",
+        "signature": "d0c14b4d258b5ab86bbfb13f4c0ed6715d543aa117be2587965bb7d2d1955564",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/build/index.ts": {
+        "version": "f8042a13da672cec4f76abbb93b2eb1e0a59b03dfc107944e3af51d3baa392dc",
+        "signature": "83dc52d3db076fe1716679ba367b018ddab4925fac37718046ba145ba6d1f9fb",
+        "affectsGlobalScope": false
+      },
+      "./src/utils/getSolutionStatus.ts": {
+        "version": "caf301255faaaac0186dc7128d0789fd3af0f678d1c39d0bb6b66933b5bb8b8d",
+        "signature": "4011d9ae1f002899bc4a36f1697f33754c8a6fb9747c02f7fe93ad7f8c50ebf6",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/cached/handler.ts": {
+        "version": "f98a63284a96e99b06bf5cc35a836bd79cedf5f4455fc53b8d59cae4e4be7ee8",
+        "signature": "cdb3aa6ec57fd2aeab0b9bd3a5970101e60de8be0c7e55539c74f5653157139b",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/cached/index.ts": {
+        "version": "66f5f2f7ea8251fff6466261c5c23e52234e49910d8d406fc11354331809d050",
+        "signature": "0c410c6dcb3ce8cda3f38824f7cb1d9967e9d619a8f6bbeaeb13f65b1ea84acc",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/changed/handler.ts": {
+        "version": "05051caebebbc536f8c7f2849209c660d744a11a26583bda1b734c057c854f77",
+        "signature": "cdb3aa6ec57fd2aeab0b9bd3a5970101e60de8be0c7e55539c74f5653157139b",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/changed/index.ts": {
+        "version": "bbd18935bc3b5053ee4dc6d13382c49d8263c9c7023f657868f7728745e65d63",
+        "signature": "0c410c6dcb3ce8cda3f38824f7cb1d9967e9d619a8f6bbeaeb13f65b1ea84acc",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/checkDeps/handler.ts": {
+        "version": "184048bb2aa8fe307c41776b83d7b8e9ce08e0ee71ffeaf621f2ac0700e6dece",
+        "signature": "79eb2b94486bb9a4aa0d9232e3cd64da311601f37d6db853a192d8b723cb48a8",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/checkDeps/index.ts": {
+        "version": "65f616fba034fe4cf6af93b74a06872fd4e31b366054ceb144ab5a6d146f662b",
+        "signature": "9e1d2c3a93e364ac9bc250c1fbb1792517d8a9f6d49c18a27236f49e00102d80",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/ci-changed/handler.ts": {
+        "version": "e7e68a0c4cf3b6530a6bd3990c6e6af0b0ca36d985ee08e88b921af606e91c69",
+        "signature": "cdb3aa6ec57fd2aeab0b9bd3a5970101e60de8be0c7e55539c74f5653157139b",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/ci-changed/index.ts": {
+        "version": "00ca1f8d3b70f7324a2ad2420e8c41dfc6d1931f92e5ef10abf7dbb8426dccde",
+        "signature": "0c410c6dcb3ce8cda3f38824f7cb1d9967e9d619a8f6bbeaeb13f65b1ea84acc",
+        "affectsGlobalScope": false
+      },
+      "./src/utils/paths.ts": {
+        "version": "ccdd3967f846cf840e5d8d43aa5166c9d57c465dced6e2eda13387631a366d3f",
+        "signature": "18633fda34011270bf77029b067acc64e2b5930394dc148c53362b390599db85",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/clean/handler.ts": {
+        "version": "7fac6268426e1ba4a3d5ec20b827754304fa047f8ae65d164595d3eaa494ccb3",
+        "signature": "3af5eb004ebd8beb9ee115bfbd9a3aee283220bb422e579cf7608494470e489d",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/clean/index.ts": {
+        "version": "c8e884c840503309fbe8dfd25f120928dedadb878e008e8d6e0f48b5712e6126",
+        "signature": "10a867d586b9788af63476282f86d79bf372d017e9c7eb069c521efa2e2b0123",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/generate/solutionConfig.ts": {
+        "version": "44815ba9d072914223eb5e9327a63f0d73f28c265f530de91a78058924700592",
+        "signature": "d650e8c08e8dc5adab785075f862fde5535919242212ddeae0ebcb2193487743",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/generate/index.ts": {
+        "version": "9f871185d5954aa7a82bc7b17ba146014ee645a6738fb30c28b4ef6136f80816",
+        "signature": "6bf9845a31782798f5147dff3e8879d4dbe3f9632184ce5eae7972fe00f308e7",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/init/handler.ts": {
+        "version": "94f22fd84464ec9fc58dd9248e51e131bcd3059a214ac84947d318d2bbc87c89",
+        "signature": "287082e16c011ff5d1932b2dd44a9c4a4b9c67a583af0aa098aa490abf3feceb",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/init/index.ts": {
+        "version": "bd014d671b05d20108d14d2adc9474c1b599b5f80b019548912ebb2562397fe5",
+        "signature": "10a867d586b9788af63476282f86d79bf372d017e9c7eb069c521efa2e2b0123",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/outdatedOfChanged/handler.ts": {
+        "version": "95f171853d5da4a94a07f8cb1fdbdd51c189c119893e2f0ba41db7ae2e5b9633",
+        "signature": "61688fcb127031ca4d1b69518d88566c6b2c21132bcba4dd1c23f861144bedbc",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/outdatedOfChanged/index.ts": {
+        "version": "62b5e125526b057ab07e85d7b81ad3a72f7921e866e8b5f0d733f7660fb9228b",
+        "signature": "5c4133879ca2b79b1b95dcf748d5b45b7fed485c6dc0fd928d32e8c819c43071",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/start/handler.ts": {
+        "version": "66eb215593350dfb0870d744966f4947f1bf82f6917db7b2cef1998e49c511b9",
+        "signature": "934b9d4a0dfa8fdec8e16145b48bfbf657b3c1c7c45bca84c6e5bfcb0b65150f",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/start/index.ts": {
+        "version": "ce407d74a95dcafec44254bdcf8e81d0f316a89003385c37083e2c5ce8d2af0c",
+        "signature": "10a867d586b9788af63476282f86d79bf372d017e9c7eb069c521efa2e2b0123",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/test/handler.ts": {
+        "version": "ba0a01c9fb708ce01c0586c71f2a784e1e9803b48853a53e34793fa4484bf0e9",
+        "signature": "cdb3aa6ec57fd2aeab0b9bd3a5970101e60de8be0c7e55539c74f5653157139b",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/test/index.ts": {
+        "version": "ffba01bf4854e1db3c782e0bf3533301f16db21ee6efdd65f2e0db1dcb8235bc",
+        "signature": "0c410c6dcb3ce8cda3f38824f7cb1d9967e9d619a8f6bbeaeb13f65b1ea84acc",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/upgradeDeps/utils/findPackageJsonPaths.ts": {
+        "version": "b19587d0944eaceb0312a5d9dc077343411fa55a462812c83afc015e95d14c45",
+        "signature": "ec9a232aa7a4605f94fc7a884b9b7e30ae1af4cdf33f46c05ba08c29d0bcf708",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/upgradeDeps/interfaces.ts": {
+        "version": "ac2a4b8aee315d09a2bad3b91646d589b4eaeb99c81bfefdba3d3662714fc9fd",
+        "signature": "706c2710a0d5beb1cdd23909c550338cb27f4534bf6670b743b098c6b9a95473",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/upgradeDeps/utils/cachingDecorator.ts": {
+        "version": "4723163a7d39f6d1d10f4d75e60c8306c14bbcaf5bf06dffac195e26fae1e7c0",
+        "signature": "0fbf53a8cd7893d1225dd9141776f4df0fba9722e8fb12431e4834af091437e3",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/upgradeDeps/utils/getLatestVersion.ts": {
+        "version": "4427e672be0a23bf714bf655747befd945dac6861b5e87b6830607f33d2b5339",
+        "signature": "f5a05f019d65411a333e40f60c4f1492a449d0330238d83cdda10faba1f20399",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/upgradeDeps/utils/getDependencyVersion.ts": {
+        "version": "165722d1c45f9afe8f8a1e4e6e0f44def4e88fb86f09ad0199cee81bb7ee8b15",
+        "signature": "70ef46bbe6e5500a856174a73a792c527dc9f8f58f9dc3f3e605a7b8f819282b",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/upgradeDeps/utils/getDependencyNewVersion.ts": {
+        "version": "16fa623b42aba0a6af3d70161cff4ef9ca3d73f05cda3799b37a65e4d55ecfc3",
+        "signature": "3fa63e9baf1afe0bc8efb769af676b551bf4744c20398eb2e8506850b246ba5b",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/upgradeDeps/comands/showOutdateCommand.ts": {
+        "version": "48a82afeb5323cab9e20fca817d449c450fd0c88309e1df54e6bb0fb1e92a253",
+        "signature": "379029307c72643b8edf1af88c7f7850b7a4aaf6940dbce2592adf433bee692d",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/upgradeDeps/comands/fixVersionCommand.ts": {
+        "version": "07f54f67af0de479baf1dbee72423c71f053ad365dd8321096d1591ffbec69f4",
+        "signature": "02886be9e0e29e630ecddb1a497c0ee723bad74c43fff8f358c33ed6e002d15f",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/upgradeDeps/utils/createConfig.ts": {
+        "version": "bd41f961e9aa54d77b3979f38ed26c038b9b66a5f23eb12d8a495a27f2bda1e8",
+        "signature": "00af00523cb8362e6e5c7e2db1f9f6d14fa6ef3ffd15bb8e794cc416da580a5f",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/upgradeDeps/utils/getDependencyItems.ts": {
+        "version": "9f50f253e83cbd7470d07b9cc6edbd77c725b14e152e7fbc0b3e4399bf4502d3",
+        "signature": "d37651d7aa50dad5218e302a263d134aef9ef3ab7e8aebba60cdc2bc9cb92a6d",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/upgradeDeps/utils/createPackageJsonHandler.ts": {
+        "version": "6c6a4574e837cca0abcd6c45a01e247f7875a068506f7f5811b1019c192756d2",
+        "signature": "5276bfb93ba9bd2e993ecb251d4f5184683fc1eb3f76ea2f2e9605d2f59e182d",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/upgradeDeps/handler.ts": {
+        "version": "11bbfd34deb3d038084fffc74527a911fdf81fb57ada6d586f5e7f6272991445",
+        "signature": "f86e836befbaf208b0814c2365bc4fbcf1dabac1ddce49eeb595647163090559",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/upgradeDeps/index.ts": {
+        "version": "eea1f6e3c372b9a4f249e13761d75873035f63dd5bf46940a515156d3c6a7f15",
+        "signature": "b0069569670db551750284ec78c6a2ad808ff2e13753f77f835bffff814e1560",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/watch/handler.ts": {
+        "version": "bd31379b3b30bea71a1936653321faac629fa42b8a5f762210b17b3cb5e7c784",
+        "signature": "b9b29bcfe5f8c601360973941fe1dc540895fa8049db0ba45b497903c1949437",
+        "affectsGlobalScope": false
+      },
+      "./src/commands/watch/index.ts": {
+        "version": "e2098179d0a795b1aefc5f929084e03024089e66ed9ca15acdbaa8e87088ede3",
+        "signature": "10a867d586b9788af63476282f86d79bf372d017e9c7eb069c521efa2e2b0123",
+        "affectsGlobalScope": false
+      },
+      "./src/webpack/typeScriptFormatter.ts": {
+        "version": "8d241f4296c5f5d2e82bf9aee2bcb30c699c9a1785f14fe67b6653f4896f0cc8",
+        "signature": "aa85ad40e0a801004c5d91e226b9ad9e8590116a76ba99aeeebd2e53b520bc7b",
+        "affectsGlobalScope": false
+      },
+      "./@types/@lerna-project/index.d.ts": {
+        "version": "830f294acec6f148f4b5092be1fa6d8cc48ebcd663c1ef574d6f64e68fdd3c80",
+        "signature": "830f294acec6f148f4b5092be1fa6d8cc48ebcd663c1ef574d6f64e68fdd3c80",
+        "affectsGlobalScope": false
+      },
+      "./@types/responsive-loader/index.d.ts": {
+        "version": "8c41e7980eefcc02bb9c3668a22c9114dea81ed86e8eea2feab14a6b0058e961",
+        "signature": "8c41e7980eefcc02bb9c3668a22c9114dea81ed86e8eea2feab14a6b0058e961",
+        "affectsGlobalScope": false
+      },
+      "./@types/spawndamnit/index.d.ts": {
+        "version": "4bab9d7fcf6a0aabf7ea0b2a3f72b8aac544b2b852766f0c5082a2e02bcc6ea4",
+        "signature": "4bab9d7fcf6a0aabf7ea0b2a3f72b8aac544b2b852766f0c5082a2e02bcc6ea4",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "composite": false,
+      "incremental": true,
+      "strictNullChecks": true,
+      "allowJs": false,
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "jsx": 2,
+      "module": 1,
+      "moduleResolution": 2,
+      "noImplicitAny": true,
+      "declaration": true,
+      "declarationMap": true,
+      "emitDeclarationOnly": false,
+      "noErrorTruncation": true,
+      "plugins": [
+        {
+          "name": "typescript-styled-plugin",
+          "validate": false
+        }
+      ],
+      "skipLibCheck": true,
+      "strict": false,
+      "target": 99,
+      "resolveJsonModule": true,
+      "preserveWatchOutput": true,
+      "pretty": true,
+      "rootDir": "./src",
+      "baseUrl": "./src",
+      "noEmit": true,
+      "typeRoots": [
+        "../../node_modules/@types",
+        "../node_modules/@types",
+        "./node_modules/@types",
+        "./@types"
+      ],
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {
+      "./src/commands/build/handler.ts": [
+        "./@types/spawndamnit/index.d.ts",
+        "./src/utils/changeset-git.ts",
+        "./src/utils/getPackage.ts",
+        "./src/webpack/builder.ts",
+        "./src/webpack/paths.ts"
+      ],
+      "./src/commands/build/index.ts": [
+        "./src/commands/build/handler.ts"
+      ],
+      "./src/commands/cached/handler.ts": [
+        "./@types/spawndamnit/index.d.ts",
+        "./src/utils/changeset-git.ts",
+        "./src/utils/getSolutionStatus.ts",
+        "./src/webpack/paths.ts"
+      ],
+      "./src/commands/cached/index.ts": [
+        "./src/commands/cached/handler.ts"
+      ],
+      "./src/commands/changed/handler.ts": [
+        "./@types/spawndamnit/index.d.ts",
+        "./src/utils/changeset-git.ts",
+        "./src/utils/getSolutionStatus.ts",
+        "./src/webpack/paths.ts"
+      ],
+      "./src/commands/changed/index.ts": [
+        "./src/commands/changed/handler.ts"
+      ],
+      "./src/commands/checkDeps/handler.ts": [
+        "./src/utils/getPackage.ts",
+        "./src/utils/types/package.json.typings.ts"
+      ],
+      "./src/commands/checkDeps/index.ts": [
+        "./src/commands/checkDeps/handler.ts"
+      ],
+      "./src/commands/ci-changed/handler.ts": [
+        "./@types/spawndamnit/index.d.ts",
+        "./src/webpack/paths.ts"
+      ],
+      "./src/commands/ci-changed/index.ts": [
+        "./src/commands/ci-changed/handler.ts"
+      ],
+      "./src/commands/clean/handler.ts": [
+        "./src/utils/paths.ts"
+      ],
+      "./src/commands/clean/index.ts": [
+        "./src/commands/clean/handler.ts"
+      ],
+      "./src/commands/generate/index.ts": [
+        "./src/commands/generate/solutionConfig.ts"
+      ],
+      "./src/commands/generate/solutionConfig.ts": [
+        "./@types/@lerna-project/index.d.ts",
+        "./src/webpack/paths.ts"
+      ],
+      "./src/commands/init/handler.ts": [
+        "./@types/spawndamnit/index.d.ts"
+      ],
+      "./src/commands/init/index.ts": [
+        "./src/commands/init/handler.ts"
+      ],
+      "./src/commands/outdatedOfChanged/handler.ts": [
+        "./@types/spawndamnit/index.d.ts",
+        "./src/utils/getPackage.ts",
+        "./src/utils/getSolutionStatus.ts",
+        "./src/webpack/paths.ts"
+      ],
+      "./src/commands/outdatedOfChanged/index.ts": [
+        "./src/commands/outdatedOfChanged/handler.ts"
+      ],
+      "./src/commands/start/handler.ts": [
+        "./src/utils/assert.ts",
+        "./src/webpack/builder.ts",
+        "./src/webpack/paths.ts"
+      ],
+      "./src/commands/start/index.ts": [
+        "./src/commands/start/handler.ts"
+      ],
+      "./src/commands/test/handler.ts": [
+        "./src/utils/paths.ts"
+      ],
+      "./src/commands/test/index.ts": [
+        "./src/commands/test/handler.ts"
+      ],
+      "./src/commands/upgradeDeps/comands/fixVersionCommand.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts",
+        "./src/commands/upgradeDeps/utils/getDependencyNewVersion.ts",
+        "./src/utils/types/index.ts"
+      ],
+      "./src/commands/upgradeDeps/comands/showOutdateCommand.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts",
+        "./src/commands/upgradeDeps/utils/getDependencyNewVersion.ts"
+      ],
+      "./src/commands/upgradeDeps/handler.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts",
+        "./src/commands/upgradeDeps/utils/createConfig.ts",
+        "./src/commands/upgradeDeps/utils/createPackageJsonHandler.ts",
+        "./src/commands/upgradeDeps/utils/findPackageJsonPaths.ts"
+      ],
+      "./src/commands/upgradeDeps/index.ts": [
+        "./src/commands/upgradeDeps/handler.ts"
+      ],
+      "./src/commands/upgradeDeps/interfaces.ts": [
+        "./src/utils/types/index.ts"
+      ],
+      "./src/commands/upgradeDeps/utils/createConfig.ts": [
+        "./src/commands/upgradeDeps/comands/fixVersionCommand.ts",
+        "./src/commands/upgradeDeps/comands/showOutdateCommand.ts",
+        "./src/commands/upgradeDeps/interfaces.ts"
+      ],
+      "./src/commands/upgradeDeps/utils/createPackageJsonHandler.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts",
+        "./src/commands/upgradeDeps/utils/getDependencyItems.ts",
+        "./src/utils/getPackage.ts"
+      ],
+      "./src/commands/upgradeDeps/utils/getDependencyItems.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts",
+        "./src/utils/types/index.ts"
+      ],
+      "./src/commands/upgradeDeps/utils/getDependencyNewVersion.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts",
+        "./src/commands/upgradeDeps/utils/getDependencyVersion.ts",
+        "./src/commands/upgradeDeps/utils/getLatestVersion.ts",
+        "./src/utils/types/index.ts"
+      ],
+      "./src/commands/upgradeDeps/utils/getDependencyVersion.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts",
+        "./src/utils/types/index.ts"
+      ],
+      "./src/commands/upgradeDeps/utils/getLatestVersion.ts": [
+        "./src/commands/upgradeDeps/utils/cachingDecorator.ts"
+      ],
+      "./src/commands/watch/handler.ts": [
+        "./@types/spawndamnit/index.d.ts",
+        "./src/utils/getPackage.ts",
+        "./src/webpack/builder.ts",
+        "./src/webpack/paths.ts"
+      ],
+      "./src/commands/watch/index.ts": [
+        "./src/commands/watch/handler.ts"
+      ],
+      "./src/index.ts": [
+        "./src/utils/supportMessages.ts"
+      ],
+      "./src/utils/changeset-git.ts": [
+        "./@types/spawndamnit/index.d.ts"
+      ],
+      "./src/utils/getPackage.ts": [
+        "./src/utils/assert.ts",
+        "./src/utils/types/index.ts"
+      ],
+      "./src/utils/getSolutionStatus.ts": [
+        "./src/utils/assert.ts",
+        "./src/webpack/paths.ts"
+      ],
+      "./src/utils/paths.ts": [
+        "./src/utils/types/index.ts"
+      ],
+      "./src/utils/types/index.ts": [
+        "./src/utils/types/package.json.typings.ts"
+      ],
+      "./src/webpack/builder.ts": [
+        "./src/webpack/interface/BuildOptions.ts",
+        "./src/webpack/paths.ts",
+        "./src/webpack/webpack.config.ts"
+      ],
+      "./src/webpack/components/getPlugins/const/COPY_PLUGIN.ts": [
+        "./src/webpack/paths.ts"
+      ],
+      "./src/webpack/components/getPlugins/const/HTML_WEBPACK_PLUGINS.ts": [
+        "./src/webpack/paths.ts"
+      ],
+      "./src/webpack/components/getPlugins/const/PACKAGE_LOADER_PLUGIN.ts": [
+        "./src/webpack/packageLoader/index.ts"
+      ],
+      "./src/webpack/components/getPlugins/getPlatformEnvironment.ts": [
+        "./src/webpack/components/getPlugins/const/GIT_REVISION_PLUGINS.ts"
+      ],
+      "./src/webpack/components/getPlugins/getPlugins.ts": [
+        "./src/webpack/components/getPlugins/const/BUNDLE_ANALYZER_PLUGIN.ts",
+        "./src/webpack/components/getPlugins/const/COPY_PLUGIN.ts",
+        "./src/webpack/components/getPlugins/const/DEFAULT_DEV_PLUGINS.ts",
+        "./src/webpack/components/getPlugins/const/DEFAULT_PLUGINS.ts",
+        "./src/webpack/components/getPlugins/const/DEFAULT_PROD_PLUGINS.ts",
+        "./src/webpack/components/getPlugins/const/DUPLICATE_PACKAGE_CHECKER_PLUGIN.ts",
+        "./src/webpack/components/getPlugins/const/GIT_REVISION_PLUGINS.ts",
+        "./src/webpack/components/getPlugins/const/HTML_WEBPACK_PLUGINS.ts",
+        "./src/webpack/components/getPlugins/const/PACKAGE_LOADER_PLUGIN.ts",
+        "./src/webpack/components/getPlugins/getPlatformEnvironment.ts",
+        "./src/webpack/components/getPlugins/interface/GetPlugins.ts"
+      ],
+      "./src/webpack/components/getPlugins/interface/GetPlugins.ts": [
+        "./src/webpack/paths.ts"
+      ],
+      "./src/webpack/components/getPluginsMinimizer/const/TERSET_PLUGIN.ts": [
+        "./src/webpack/const/threadLoader.ts"
+      ],
+      "./src/webpack/components/getPluginsMinimizer/getPluginsMinimizer.ts": [
+        "./src/webpack/components/getPluginsMinimizer/const/OPTIMIZER_CSS_ASSETS_PLUGIN.ts",
+        "./src/webpack/components/getPluginsMinimizer/const/TERSET_PLUGIN.ts"
+      ],
+      "./src/webpack/interface/BuildOptions.ts": [
+        "./src/webpack/paths.ts"
+      ],
+      "./src/webpack/packageLoader/abstractCopier.ts": [
+        "./src/utils/assert.ts",
+        "./src/webpack/packageLoader/compilerFS.ts"
+      ],
+      "./src/webpack/packageLoader/compilerFS.ts": [
+        "./src/utils/types/index.ts"
+      ],
+      "./src/webpack/packageLoader/index.ts": [
+        "./src/utils/getPackage.ts",
+        "./src/utils/supportMessages.ts",
+        "./src/webpack/packageLoader/packageCopier.ts",
+        "./src/webpack/packageLoader/packageSymlinker.ts"
+      ],
+      "./src/webpack/packageLoader/packageCopier.ts": [
+        "./src/utils/assert.ts",
+        "./src/webpack/packageLoader/abstractCopier.ts"
+      ],
+      "./src/webpack/packageLoader/packageSymlinker.ts": [
+        "./src/utils/assert.ts",
+        "./src/webpack/packageLoader/abstractCopier.ts"
+      ],
+      "./src/webpack/paths.ts": [
+        "./src/utils/getPackage.ts"
+      ],
+      "./src/webpack/webpack.config.ts": [
+        "./@types/responsive-loader/index.d.ts",
+        "./src/utils/getPackage.ts",
+        "./src/webpack/components/getPlugins/getPlugins.ts",
+        "./src/webpack/components/getPluginsMinimizer/getPluginsMinimizer.ts",
+        "./src/webpack/const/threadLoader.ts",
+        "./src/webpack/interface/BuildOptions.ts",
+        "./src/webpack/webpackProxyConfigs/getSettingsByEnvironment.ts"
+      ],
+      "./src/webpack/webpackProxyConfigs/getSettingsByEnvironment.ts": [
+        "./src/webpack/webpackProxyConfigs/getComposeProxyConfig.ts",
+        "./src/webpack/webpackProxyConfigs/getCustomProxyConfig.ts",
+        "./src/webpack/webpackProxyConfigs/getKuberProxyConfig.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "./src/commands/upgradeDeps/comands/fixVersionCommand.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts"
+      ],
+      "./src/commands/upgradeDeps/comands/showOutdateCommand.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts"
+      ],
+      "./src/commands/upgradeDeps/handler.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts"
+      ],
+      "./src/commands/upgradeDeps/interfaces.ts": [
+        "./src/utils/types/index.ts"
+      ],
+      "./src/commands/upgradeDeps/utils/createConfig.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts"
+      ],
+      "./src/commands/upgradeDeps/utils/createPackageJsonHandler.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts"
+      ],
+      "./src/commands/upgradeDeps/utils/getDependencyItems.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts",
+        "./src/utils/types/index.ts"
+      ],
+      "./src/commands/upgradeDeps/utils/getDependencyNewVersion.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts",
+        "./src/utils/types/index.ts"
+      ],
+      "./src/commands/upgradeDeps/utils/getDependencyVersion.ts": [
+        "./src/commands/upgradeDeps/interfaces.ts",
+        "./src/utils/types/index.ts"
+      ],
+      "./src/utils/getPackage.ts": [
+        "./src/utils/types/package.json.typings.ts"
+      ],
+      "./src/utils/paths.ts": [
+        "./src/utils/types/index.ts"
+      ],
+      "./src/utils/types/index.ts": [
+        "./src/utils/types/package.json.typings.ts"
+      ],
+      "./src/webpack/builder.ts": [
+        "./src/webpack/interface/BuildOptions.ts"
+      ],
+      "./src/webpack/components/getPlugins/const/COPY_PLUGIN.ts": [
+        "./src/webpack/paths.ts"
+      ],
+      "./src/webpack/components/getPlugins/const/HTML_WEBPACK_PLUGINS.ts": [
+        "./src/webpack/paths.ts"
+      ],
+      "./src/webpack/components/getPlugins/getPlugins.ts": [
+        "./src/webpack/components/getPlugins/interface/GetPlugins.ts"
+      ],
+      "./src/webpack/components/getPlugins/interface/GetPlugins.ts": [
+        "./src/webpack/paths.ts"
+      ],
+      "./src/webpack/interface/BuildOptions.ts": [
+        "./src/webpack/paths.ts"
+      ],
+      "./src/webpack/packageLoader/abstractCopier.ts": [
+        "./src/webpack/packageLoader/compilerFS.ts"
+      ],
+      "./src/webpack/packageLoader/index.ts": [
+        "./src/webpack/packageLoader/packageCopier.ts",
+        "./src/webpack/packageLoader/packageSymlinker.ts"
+      ],
+      "./src/webpack/packageLoader/packageCopier.ts": [
+        "./src/webpack/packageLoader/abstractCopier.ts"
+      ],
+      "./src/webpack/packageLoader/packageSymlinker.ts": [
+        "./src/webpack/packageLoader/abstractCopier.ts"
+      ],
+      "./src/webpack/webpack.config.ts": [
+        "./src/webpack/interface/BuildOptions.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "./@types/@lerna-project/index.d.ts",
+      "./@types/responsive-loader/index.d.ts",
+      "./@types/spawndamnit/index.d.ts",
+      [
+        "./src/commands/build/handler.ts",
+        [
+          {
+            "file": "./src/commands/build/handler.ts",
+            "start": 31,
+            "length": 4,
+            "messageText": "Cannot find module 'fs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/build/handler.ts",
+            "start": 570,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "./src/commands/build/index.ts",
+        [
+          {
+            "file": "./src/commands/build/index.ts",
+            "start": 30,
+            "length": 7,
+            "messageText": "Cannot find module 'yargs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/build/index.ts",
+            "start": 215,
+            "length": 6,
+            "messageText": "Parameter 'cmdObj' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/build/index.ts",
+            "start": 417,
+            "length": 5,
+            "messageText": "Binding element 'force' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7031
+          }
+        ]
+      ],
+      [
+        "./src/commands/cached/handler.ts",
+        [
+          {
+            "file": "./src/commands/cached/handler.ts",
+            "start": 31,
+            "length": 4,
+            "messageText": "Cannot find module 'fs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/commands/cached/index.ts",
+        [
+          {
+            "file": "./src/commands/cached/index.ts",
+            "start": 30,
+            "length": 7,
+            "messageText": "Cannot find module 'yargs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/cached/index.ts",
+            "start": 274,
+            "length": 6,
+            "messageText": "Parameter 'cmdObj' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/cached/index.ts",
+            "start": 824,
+            "length": 6,
+            "messageText": "Binding element 'runner' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7031
+          },
+          {
+            "file": "./src/commands/cached/index.ts",
+            "start": 1042,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/cached/index.ts",
+            "start": 1061,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "./src/commands/changed/handler.ts",
+        [
+          {
+            "file": "./src/commands/changed/handler.ts",
+            "start": 31,
+            "length": 4,
+            "messageText": "Cannot find module 'fs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/commands/changed/index.ts",
+        [
+          {
+            "file": "./src/commands/changed/index.ts",
+            "start": 30,
+            "length": 7,
+            "messageText": "Cannot find module 'yargs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/changed/index.ts",
+            "start": 294,
+            "length": 6,
+            "messageText": "Parameter 'cmdObj' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/changed/index.ts",
+            "start": 844,
+            "length": 6,
+            "messageText": "Binding element 'runner' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7031
+          },
+          {
+            "file": "./src/commands/changed/index.ts",
+            "start": 1109,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/changed/index.ts",
+            "start": 1128,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/changed/index.ts",
+            "start": 1302,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "./src/commands/checkDeps/handler.ts",
+        [
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 17,
+            "length": 6,
+            "messageText": "Cannot find module 'path' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 41,
+            "length": 10,
+            "messageText": "Cannot find module 'fs-extra' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 72,
+            "length": 15,
+            "messageText": "Cannot find module 'lodash/values' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 109,
+            "length": 16,
+            "messageText": "Cannot find module 'lodash/flatten' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 144,
+            "length": 13,
+            "messageText": "Cannot find module 'lodash/uniq' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 178,
+            "length": 8,
+            "messageText": "Cannot find module 'globby' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 397,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 437,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 1997,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 5113,
+            "length": 3,
+            "messageText": "Parameter 'acc' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 5118,
+            "length": 10,
+            "messageText": "Parameter 'importPath' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 5399,
+            "length": 3,
+            "messageText": "Parameter 'dep' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 5938,
+            "length": 4,
+            "messageText": "Parameter 'left' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 5944,
+            "length": 3,
+            "messageText": "Parameter 'dep' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/checkDeps/handler.ts",
+            "start": 6297,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "./src/commands/checkDeps/index.ts",
+        [
+          {
+            "file": "./src/commands/checkDeps/index.ts",
+            "start": 30,
+            "length": 7,
+            "messageText": "Cannot find module 'yargs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/checkDeps/index.ts",
+            "start": 263,
+            "length": 6,
+            "messageText": "Parameter 'cmdObj' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/checkDeps/index.ts",
+            "start": 643,
+            "length": 3,
+            "messageText": "Binding element 'fix' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7031
+          },
+          {
+            "file": "./src/commands/checkDeps/index.ts",
+            "start": 648,
+            "length": 6,
+            "messageText": "Binding element 'legacy' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7031
+          }
+        ]
+      ],
+      [
+        "./src/commands/ci-changed/handler.ts",
+        [
+          {
+            "file": "./src/commands/ci-changed/handler.ts",
+            "start": 94,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/ci-changed/handler.ts",
+            "start": 146,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/ci-changed/handler.ts",
+            "start": 614,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "./src/commands/ci-changed/index.ts",
+        [
+          {
+            "file": "./src/commands/ci-changed/index.ts",
+            "start": 30,
+            "length": 7,
+            "messageText": "Cannot find module 'yargs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/ci-changed/index.ts",
+            "start": 308,
+            "length": 6,
+            "messageText": "Parameter 'cmdObj' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/ci-changed/index.ts",
+            "start": 858,
+            "length": 6,
+            "messageText": "Binding element 'runner' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7031
+          },
+          {
+            "file": "./src/commands/ci-changed/index.ts",
+            "start": 890,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/ci-changed/index.ts",
+            "start": 909,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "./src/commands/clean/handler.ts",
+        [
+          {
+            "file": "./src/commands/clean/handler.ts",
+            "start": 39,
+            "length": 6,
+            "messageText": "Cannot find module 'path' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/clean/handler.ts",
+            "start": 63,
+            "length": 10,
+            "messageText": "Cannot find module 'fs-extra' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/commands/clean/index.ts",
+        [
+          {
+            "file": "./src/commands/clean/index.ts",
+            "start": 30,
+            "length": 7,
+            "messageText": "Cannot find module 'yargs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/commands/generate/index.ts",
+        [
+          {
+            "file": "./src/commands/generate/index.ts",
+            "start": 30,
+            "length": 7,
+            "messageText": "Cannot find module 'yargs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/generate/index.ts",
+            "start": 227,
+            "length": 6,
+            "messageText": "Parameter 'cmdObj' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          }
+        ]
+      ],
+      [
+        "./src/commands/generate/solutionConfig.ts",
+        [
+          {
+            "file": "./src/commands/generate/solutionConfig.ts",
+            "start": 17,
+            "length": 6,
+            "messageText": "Cannot find module 'path' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/generate/solutionConfig.ts",
+            "start": 56,
+            "length": 4,
+            "messageText": "Cannot find module 'fs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/commands/init/handler.ts",
+        [
+          {
+            "file": "./src/commands/init/handler.ts",
+            "start": 49,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "./src/commands/init/index.ts",
+        [
+          {
+            "file": "./src/commands/init/index.ts",
+            "start": 30,
+            "length": 7,
+            "messageText": "Cannot find module 'yargs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/commands/outdatedOfChanged/handler.ts",
+        [
+          {
+            "file": "./src/commands/outdatedOfChanged/handler.ts",
+            "start": 31,
+            "length": 4,
+            "messageText": "Cannot find module 'fs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/outdatedOfChanged/handler.ts",
+            "start": 417,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "./src/commands/outdatedOfChanged/index.ts",
+        [
+          {
+            "file": "./src/commands/outdatedOfChanged/index.ts",
+            "start": 30,
+            "length": 7,
+            "messageText": "Cannot find module 'yargs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/outdatedOfChanged/index.ts",
+            "start": 359,
+            "length": 6,
+            "messageText": "Parameter 'cmdObj' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/outdatedOfChanged/index.ts",
+            "start": 694,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/outdatedOfChanged/index.ts",
+            "start": 847,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "./src/commands/start/handler.ts",
+        [
+          {
+            "file": "./src/commands/start/handler.ts",
+            "start": 15,
+            "length": 4,
+            "messageText": "Cannot find module 'fs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/start/handler.ts",
+            "start": 41,
+            "length": 20,
+            "messageText": "Cannot find module 'webpack-dev-server' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/start/handler.ts",
+            "start": 83,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/start/handler.ts",
+            "start": 265,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/start/handler.ts",
+            "start": 294,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/start/handler.ts",
+            "start": 643,
+            "length": 1,
+            "messageText": "Parameter 'e' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/start/handler.ts",
+            "start": 789,
+            "length": 3,
+            "messageText": "Parameter 'err' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/start/handler.ts",
+            "start": 919,
+            "length": 3,
+            "messageText": "Parameter 'err' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/start/handler.ts",
+            "start": 1138,
+            "length": 7,
+            "messageText": "Cannot find name 'require'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "./src/commands/start/index.ts",
+        [
+          {
+            "file": "./src/commands/start/index.ts",
+            "start": 30,
+            "length": 7,
+            "messageText": "Cannot find module 'yargs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/commands/test/handler.ts",
+        [
+          {
+            "file": "./src/commands/test/handler.ts",
+            "start": 17,
+            "length": 6,
+            "messageText": "Cannot find module 'path' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/test/handler.ts",
+            "start": 125,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/test/handler.ts",
+            "start": 706,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/test/handler.ts",
+            "start": 745,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/test/handler.ts",
+            "start": 787,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/test/handler.ts",
+            "start": 827,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/test/handler.ts",
+            "start": 1281,
+            "length": 7,
+            "messageText": "Cannot find name 'require'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "./src/commands/test/index.ts",
+        [
+          {
+            "file": "./src/commands/test/index.ts",
+            "start": 30,
+            "length": 7,
+            "messageText": "Cannot find module 'yargs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/test/index.ts",
+            "start": 208,
+            "length": 6,
+            "messageText": "Binding element 'runner' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7031
+          },
+          {
+            "file": "./src/commands/test/index.ts",
+            "start": 240,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/commands/test/index.ts",
+            "start": 259,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "./src/commands/upgradeDeps/comands/fixVersionCommand.ts",
+        [
+          {
+            "file": "./src/commands/upgradeDeps/comands/fixVersionCommand.ts",
+            "start": 15,
+            "length": 10,
+            "messageText": "Cannot find module 'fs-extra' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      "./src/commands/upgradeDeps/comands/showOutdateCommand.ts",
+      "./src/commands/upgradeDeps/handler.ts",
+      [
+        "./src/commands/upgradeDeps/index.ts",
+        [
+          {
+            "file": "./src/commands/upgradeDeps/index.ts",
+            "start": 30,
+            "length": 7,
+            "messageText": "Cannot find module 'yargs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/commands/upgradeDeps/index.ts",
+            "start": 332,
+            "length": 6,
+            "messageText": "Parameter 'cmdObj' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/commands/upgradeDeps/index.ts",
+            "start": 876,
+            "length": 3,
+            "messageText": "Binding element 'fix' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7031
+          },
+          {
+            "file": "./src/commands/upgradeDeps/index.ts",
+            "start": 881,
+            "length": 11,
+            "messageText": "Binding element 'showOutdate' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7031
+          },
+          {
+            "file": "./src/commands/upgradeDeps/index.ts",
+            "start": 894,
+            "length": 8,
+            "messageText": "Binding element 'packages' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7031
+          }
+        ]
+      ],
+      "./src/commands/upgradeDeps/interfaces.ts",
+      "./src/commands/upgradeDeps/utils/cachingDecorator.ts",
+      "./src/commands/upgradeDeps/utils/createConfig.ts",
+      [
+        "./src/commands/upgradeDeps/utils/createPackageJsonHandler.ts",
+        [
+          {
+            "file": "./src/commands/upgradeDeps/utils/createPackageJsonHandler.ts",
+            "start": 524,
+            "length": 14,
+            "code": 2339,
+            "category": 1,
+            "messageText": "Property 'normalizedName' does not exist on type 'Object'."
+          }
+        ]
+      ],
+      [
+        "./src/commands/upgradeDeps/utils/findPackageJsonPaths.ts",
+        [
+          {
+            "file": "./src/commands/upgradeDeps/utils/findPackageJsonPaths.ts",
+            "start": 19,
+            "length": 8,
+            "messageText": "Cannot find module 'globby' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      "./src/commands/upgradeDeps/utils/getDependencyItems.ts",
+      [
+        "./src/commands/upgradeDeps/utils/getDependencyNewVersion.ts",
+        [
+          {
+            "file": "./src/commands/upgradeDeps/utils/getDependencyNewVersion.ts",
+            "start": 20,
+            "length": 8,
+            "messageText": "Cannot find module 'semver' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      "./src/commands/upgradeDeps/utils/getDependencyVersion.ts",
+      [
+        "./src/commands/upgradeDeps/utils/getLatestVersion.ts",
+        [
+          {
+            "file": "./src/commands/upgradeDeps/utils/getLatestVersion.ts",
+            "start": 18,
+            "length": 7,
+            "messageText": "Cannot find module 'execa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      "./src/commands/watch/handler.ts",
+      [
+        "./src/commands/watch/index.ts",
+        [
+          {
+            "file": "./src/commands/watch/index.ts",
+            "start": 30,
+            "length": 7,
+            "messageText": "Cannot find module 'yargs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/index.ts",
+        [
+          {
+            "file": "./src/index.ts",
+            "start": 18,
+            "length": 7,
+            "messageText": "Cannot find module 'yargs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/index.ts",
+            "start": 81,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/index.ts",
+            "start": 115,
+            "length": 9,
+            "messageText": "Parameter 'rejection' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          }
+        ]
+      ],
+      "./src/utils/assert.ts",
+      [
+        "./src/utils/changeset-git.ts",
+        [
+          {
+            "file": "./src/utils/changeset-git.ts",
+            "start": 17,
+            "length": 6,
+            "messageText": "Cannot find module 'path' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/utils/changeset-git.ts",
+            "start": 952,
+            "length": 9,
+            "messageText": "Cannot find name '__dirname'.",
+            "category": 1,
+            "code": 2304
+          }
+        ]
+      ],
+      [
+        "./src/utils/getPackage.ts",
+        [
+          {
+            "file": "./src/utils/getPackage.ts",
+            "start": 350,
+            "length": 7,
+            "messageText": "Cannot find name 'require'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "./src/utils/getSolutionStatus.ts",
+        [
+          {
+            "file": "./src/utils/getSolutionStatus.ts",
+            "start": 31,
+            "length": 4,
+            "messageText": "Cannot find module 'fs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/utils/paths.ts",
+        [
+          {
+            "file": "./src/utils/paths.ts",
+            "start": 24,
+            "length": 6,
+            "messageText": "Cannot find module 'path' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/utils/paths.ts",
+            "start": 48,
+            "length": 10,
+            "messageText": "Cannot find module 'fs-extra' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/utils/paths.ts",
+            "start": 79,
+            "length": 9,
+            "messageText": "Cannot find module 'find-up' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/utils/paths.ts",
+            "start": 218,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      "./src/utils/supportMessages.ts",
+      [
+        "./src/utils/types/index.ts",
+        [
+          {
+            "file": "./src/utils/types/index.ts",
+            "start": 15,
+            "length": 4,
+            "messageText": "Cannot find module 'fs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/utils/types/index.ts",
+            "start": 399,
+            "length": 9,
+            "messageText": "Invalid module name in augmentation, module 'webpack' cannot be found.",
+            "category": 1,
+            "code": 2664
+          }
+        ]
+      ],
+      "./src/utils/types/package.json.typings.ts",
+      [
+        "./src/webpack/builder.ts",
+        [
+          {
+            "file": "./src/webpack/builder.ts",
+            "start": 18,
+            "length": 7,
+            "messageText": "Cannot find module 'chalk' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/builder.ts",
+            "start": 61,
+            "length": 39,
+            "messageText": "Cannot find module 'react-dev-utils/formatWebpackMessages' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/builder.ts",
+            "start": 122,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/builder.ts",
+            "start": 410,
+            "length": 7,
+            "messageText": "Cannot find name 'require'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/builder.ts",
+            "start": 759,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/builder.ts",
+            "start": 790,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/builder.ts",
+            "start": 1030,
+            "length": 3,
+            "messageText": "Parameter 'err' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/webpack/builder.ts",
+            "start": 1035,
+            "length": 5,
+            "messageText": "Parameter 'stats' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/webpack/builder.ts",
+            "start": 1652,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/builder.ts",
+            "start": 1688,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/builder.ts",
+            "start": 1719,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/BUNDLE_ANALYZER_PLUGIN.ts",
+        [
+          {
+            "file": "./src/webpack/components/getPlugins/const/BUNDLE_ANALYZER_PLUGIN.ts",
+            "start": 37,
+            "length": 25,
+            "messageText": "Cannot find module 'webpack-bundle-analyzer' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/components/getPlugins/const/BUNDLE_ANALYZER_PLUGIN.ts",
+            "start": 87,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/COPY_PLUGIN.ts",
+        [
+          {
+            "file": "./src/webpack/components/getPlugins/const/COPY_PLUGIN.ts",
+            "start": 23,
+            "length": 21,
+            "messageText": "Cannot find module 'copy-webpack-plugin' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/components/getPlugins/const/COPY_PLUGIN.ts",
+            "start": 69,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/DEFAULT_DEV_PLUGINS.ts",
+        [
+          {
+            "file": "./src/webpack/components/getPlugins/const/DEFAULT_DEV_PLUGINS.ts",
+            "start": 42,
+            "length": 42,
+            "messageText": "Cannot find module 'duplicate-package-checker-webpack-plugin' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/components/getPlugins/const/DEFAULT_DEV_PLUGINS.ts",
+            "start": 109,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/DEFAULT_PLUGINS.ts",
+        [
+          {
+            "file": "./src/webpack/components/getPlugins/const/DEFAULT_PLUGINS.ts",
+            "start": 30,
+            "length": 29,
+            "messageText": "Cannot find module 'progress-bar-webpack-plugin' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/components/getPlugins/const/DEFAULT_PLUGINS.ts",
+            "start": 96,
+            "length": 22,
+            "messageText": "Cannot find module 'clean-webpack-plugin' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/components/getPlugins/const/DEFAULT_PLUGINS.ts",
+            "start": 143,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/DEFAULT_PROD_PLUGINS.ts",
+        [
+          {
+            "file": "./src/webpack/components/getPlugins/const/DEFAULT_PROD_PLUGINS.ts",
+            "start": 30,
+            "length": 28,
+            "messageText": "Cannot find module 'compression-webpack-plugin' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/components/getPlugins/const/DEFAULT_PROD_PLUGINS.ts",
+            "start": 93,
+            "length": 25,
+            "messageText": "Cannot find module 'mini-css-extract-plugin' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/components/getPlugins/const/DEFAULT_PROD_PLUGINS.ts",
+            "start": 169,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/DUPLICATE_PACKAGE_CHECKER_PLUGIN.ts",
+        [
+          {
+            "file": "./src/webpack/components/getPlugins/const/DUPLICATE_PACKAGE_CHECKER_PLUGIN.ts",
+            "start": 42,
+            "length": 42,
+            "messageText": "Cannot find module 'duplicate-package-checker-webpack-plugin' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/components/getPlugins/const/DUPLICATE_PACKAGE_CHECKER_PLUGIN.ts",
+            "start": 109,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/GIT_REVISION_PLUGINS.ts",
+        [
+          {
+            "file": "./src/webpack/components/getPlugins/const/GIT_REVISION_PLUGINS.ts",
+            "start": 30,
+            "length": 29,
+            "messageText": "Cannot find module 'git-revision-webpack-plugin' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/HTML_WEBPACK_PLUGINS.ts",
+        [
+          {
+            "file": "./src/webpack/components/getPlugins/const/HTML_WEBPACK_PLUGINS.ts",
+            "start": 30,
+            "length": 21,
+            "messageText": "Cannot find module 'html-webpack-plugin' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/components/getPlugins/const/HTML_WEBPACK_PLUGINS.ts",
+            "start": 76,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/PACKAGE_LOADER_PLUGIN.ts",
+        [
+          {
+            "file": "./src/webpack/components/getPlugins/const/PACKAGE_LOADER_PLUGIN.ts",
+            "start": 23,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/components/getPlugins/getPlatformEnvironment.ts",
+        [
+          {
+            "file": "./src/webpack/components/getPlugins/getPlatformEnvironment.ts",
+            "start": 37,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/components/getPlugins/getPlugins.ts",
+        [
+          {
+            "file": "./src/webpack/components/getPlugins/getPlugins.ts",
+            "start": 21,
+            "length": 7,
+            "messageText": "Cannot find module 'ramda' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/components/getPlugins/getPlugins.ts",
+            "start": 53,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      "./src/webpack/components/getPlugins/interface/GetPlugins.ts",
+      [
+        "./src/webpack/components/getPluginsMinimizer/const/OPTIMIZER_CSS_ASSETS_PLUGIN.ts",
+        [
+          {
+            "file": "./src/webpack/components/getPluginsMinimizer/const/OPTIMIZER_CSS_ASSETS_PLUGIN.ts",
+            "start": 36,
+            "length": 36,
+            "messageText": "Cannot find module 'optimize-css-assets-webpack-plugin' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/components/getPluginsMinimizer/const/OPTIMIZER_CSS_ASSETS_PLUGIN.ts",
+            "start": 104,
+            "length": 21,
+            "messageText": "Cannot find module 'postcss-safe-parser' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/components/getPluginsMinimizer/const/OPTIMIZER_CSS_ASSETS_PLUGIN.ts",
+            "start": 150,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/components/getPluginsMinimizer/const/TERSET_PLUGIN.ts",
+        [
+          {
+            "file": "./src/webpack/components/getPluginsMinimizer/const/TERSET_PLUGIN.ts",
+            "start": 25,
+            "length": 23,
+            "messageText": "Cannot find module 'terser-webpack-plugin' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/components/getPluginsMinimizer/const/TERSET_PLUGIN.ts",
+            "start": 73,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/components/getPluginsMinimizer/getPluginsMinimizer.ts",
+        [
+          {
+            "file": "./src/webpack/components/getPluginsMinimizer/getPluginsMinimizer.ts",
+            "start": 23,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/const/threadLoader.ts",
+        [
+          {
+            "file": "./src/webpack/const/threadLoader.ts",
+            "start": 15,
+            "length": 4,
+            "messageText": "Cannot find module 'os' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      "./src/webpack/interface/BuildOptions.ts",
+      [
+        "./src/webpack/packageLoader/abstractCopier.ts",
+        [
+          {
+            "file": "./src/webpack/packageLoader/abstractCopier.ts",
+            "start": 58,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/packageLoader/abstractCopier.ts",
+            "start": 644,
+            "length": 5,
+            "messageText": "'async' modifier cannot be used with 'abstract' modifier.",
+            "category": 1,
+            "code": 1243
+          }
+        ]
+      ],
+      [
+        "./src/webpack/packageLoader/compilerFS.ts",
+        [
+          {
+            "file": "./src/webpack/packageLoader/compilerFS.ts",
+            "start": 26,
+            "length": 6,
+            "messageText": "Cannot find module 'util' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/packageLoader/compilerFS.ts",
+            "start": 60,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/packageLoader/index.ts",
+        [
+          {
+            "file": "./src/webpack/packageLoader/index.ts",
+            "start": 17,
+            "length": 6,
+            "messageText": "Cannot find module 'path' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/packageLoader/index.ts",
+            "start": 40,
+            "length": 4,
+            "messageText": "Cannot find module 'fs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/packageLoader/index.ts",
+            "start": 88,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/packageLoader/index.ts",
+            "start": 133,
+            "length": 12,
+            "messageText": "Cannot find module 'source-map' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/packageLoader/packageCopier.ts",
+        [
+          {
+            "file": "./src/webpack/packageLoader/packageCopier.ts",
+            "start": 17,
+            "length": 6,
+            "messageText": "Cannot find module 'path' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/packageLoader/packageCopier.ts",
+            "start": 1020,
+            "length": 3,
+            "messageText": "Object is of type 'unknown'.",
+            "category": 1,
+            "code": 2571
+          },
+          {
+            "file": "./src/webpack/packageLoader/packageCopier.ts",
+            "start": 1029,
+            "length": 8,
+            "messageText": "Parameter 'pathname' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          }
+        ]
+      ],
+      [
+        "./src/webpack/packageLoader/packageSymlinker.ts",
+        [
+          {
+            "file": "./src/webpack/packageLoader/packageSymlinker.ts",
+            "start": 17,
+            "length": 6,
+            "messageText": "Cannot find module 'path' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/packageLoader/packageSymlinker.ts",
+            "start": 56,
+            "length": 4,
+            "messageText": "Cannot find module 'fs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "./src/webpack/paths.ts",
+        [
+          {
+            "file": "./src/webpack/paths.ts",
+            "start": 17,
+            "length": 6,
+            "messageText": "Cannot find module 'path' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/paths.ts",
+            "start": 136,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/paths.ts",
+            "start": 232,
+            "length": 9,
+            "messageText": "Cannot find name '__dirname'.",
+            "category": 1,
+            "code": 2304
+          }
+        ]
+      ],
+      [
+        "./src/webpack/typeScriptFormatter.ts",
+        [
+          {
+            "file": "./src/webpack/typeScriptFormatter.ts",
+            "start": 15,
+            "length": 4,
+            "messageText": "Cannot find module 'fs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/typeScriptFormatter.ts",
+            "start": 38,
+            "length": 6,
+            "messageText": "Cannot find module 'path' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/typeScriptFormatter.ts",
+            "start": 93,
+            "length": 19,
+            "messageText": "Cannot find module '@babel/code-frame' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/typeScriptFormatter.ts",
+            "start": 132,
+            "length": 7,
+            "messageText": "Cannot find module 'chalk' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/typeScriptFormatter.ts",
+            "start": 2077,
+            "length": 1,
+            "messageText": "Parameter 'l' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          }
+        ]
+      ],
+      [
+        "./src/webpack/webpack.config.ts",
+        [
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 17,
+            "length": 6,
+            "messageText": "Cannot find module 'path' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 40,
+            "length": 4,
+            "messageText": "Cannot find module 'fs' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 67,
+            "length": 9,
+            "messageText": "Cannot find module 'webpack' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 103,
+            "length": 14,
+            "messageText": "Cannot find module 'autoprefixer' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 152,
+            "length": 24,
+            "messageText": "Cannot find module 'postcss-flexbugs-fixes' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 211,
+            "length": 25,
+            "messageText": "Cannot find module 'mini-css-extract-plugin' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 263,
+            "length": 15,
+            "messageText": "Cannot find module 'dotenv-expand' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 299,
+            "length": 8,
+            "messageText": "Cannot find module 'dotenv' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 385,
+            "length": 9,
+            "messageText": "Cannot find module 'express' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 1691,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 2343,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 2432,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 3068,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 3107,
+            "length": 7,
+            "messageText": "Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 4234,
+            "length": 8,
+            "messageText": "Parameter 'proxyReq' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 4855,
+            "length": 7,
+            "messageText": "Cannot find name 'require'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 6810,
+            "length": 7,
+            "messageText": "Cannot find name 'require'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 7164,
+            "length": 7,
+            "messageText": "Cannot find name 'require'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 7541,
+            "length": 7,
+            "messageText": "Cannot find name 'require'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 8532,
+            "length": 7,
+            "messageText": "Cannot find name 'require'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 8616,
+            "length": 7,
+            "messageText": "Cannot find name 'require'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 8774,
+            "length": 7,
+            "messageText": "Cannot find name 'require'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.",
+            "category": 1,
+            "code": 2580
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 9266,
+            "length": 9,
+            "messageText": "Cannot find name '__dirname'.",
+            "category": 1,
+            "code": 2304
+          },
+          {
+            "file": "./src/webpack/webpack.config.ts",
+            "start": 9900,
+            "length": 10,
+            "messageText": "Parameter 'entrypoint' implicitly has an 'any' type.",
+            "category": 1,
+            "code": 7006
+          }
+        ]
+      ],
+      "./src/webpack/webpackProxyConfigs/getComposeProxyConfig.ts",
+      "./src/webpack/webpackProxyConfigs/getCustomProxyConfig.ts",
+      "./src/webpack/webpackProxyConfigs/getKuberProxyConfig.ts",
+      [
+        "./src/webpack/webpackProxyConfigs/getSettingsByEnvironment.ts",
+        [
+          {
+            "file": "./src/webpack/webpackProxyConfigs/getSettingsByEnvironment.ts",
+            "start": 520,
+            "length": 6,
+            "messageText": "Cannot find namespace 'NodeJS'.",
+            "category": 1,
+            "code": 2503
+          }
+        ]
+      ],
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2016.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2017.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2018.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2019.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.bigint.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.intl.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.promise.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.string.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.esnext.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.esnext.full.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.esnext.promise.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.esnext.string.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.esnext.weakref.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts"
+    ],
+    "affectedFilesPendingEmit": [
+      [
+        "./@types/@lerna-project/index.d.ts",
+        1
+      ],
+      [
+        "./@types/responsive-loader/index.d.ts",
+        1
+      ],
+      [
+        "./@types/spawndamnit/index.d.ts",
+        1
+      ],
+      [
+        "./src/commands/build/handler.ts",
+        1
+      ],
+      [
+        "./src/commands/build/index.ts",
+        1
+      ],
+      [
+        "./src/commands/cached/handler.ts",
+        1
+      ],
+      [
+        "./src/commands/cached/index.ts",
+        1
+      ],
+      [
+        "./src/commands/changed/handler.ts",
+        1
+      ],
+      [
+        "./src/commands/changed/index.ts",
+        1
+      ],
+      [
+        "./src/commands/checkDeps/handler.ts",
+        1
+      ],
+      [
+        "./src/commands/checkDeps/index.ts",
+        1
+      ],
+      [
+        "./src/commands/ci-changed/handler.ts",
+        1
+      ],
+      [
+        "./src/commands/ci-changed/index.ts",
+        1
+      ],
+      [
+        "./src/commands/clean/handler.ts",
+        1
+      ],
+      [
+        "./src/commands/clean/index.ts",
+        1
+      ],
+      [
+        "./src/commands/generate/index.ts",
+        1
+      ],
+      [
+        "./src/commands/generate/solutionConfig.ts",
+        1
+      ],
+      [
+        "./src/commands/init/handler.ts",
+        1
+      ],
+      [
+        "./src/commands/init/index.ts",
+        1
+      ],
+      [
+        "./src/commands/outdatedOfChanged/handler.ts",
+        1
+      ],
+      [
+        "./src/commands/outdatedOfChanged/index.ts",
+        1
+      ],
+      [
+        "./src/commands/start/handler.ts",
+        1
+      ],
+      [
+        "./src/commands/start/index.ts",
+        1
+      ],
+      [
+        "./src/commands/test/handler.ts",
+        1
+      ],
+      [
+        "./src/commands/test/index.ts",
+        1
+      ],
+      [
+        "./src/commands/upgradeDeps/comands/fixVersionCommand.ts",
+        1
+      ],
+      [
+        "./src/commands/upgradeDeps/comands/showOutdateCommand.ts",
+        1
+      ],
+      [
+        "./src/commands/upgradeDeps/handler.ts",
+        1
+      ],
+      [
+        "./src/commands/upgradeDeps/index.ts",
+        1
+      ],
+      [
+        "./src/commands/upgradeDeps/interfaces.ts",
+        1
+      ],
+      [
+        "./src/commands/upgradeDeps/utils/cachingDecorator.ts",
+        1
+      ],
+      [
+        "./src/commands/upgradeDeps/utils/createConfig.ts",
+        1
+      ],
+      [
+        "./src/commands/upgradeDeps/utils/createPackageJsonHandler.ts",
+        1
+      ],
+      [
+        "./src/commands/upgradeDeps/utils/findPackageJsonPaths.ts",
+        1
+      ],
+      [
+        "./src/commands/upgradeDeps/utils/getDependencyItems.ts",
+        1
+      ],
+      [
+        "./src/commands/upgradeDeps/utils/getDependencyNewVersion.ts",
+        1
+      ],
+      [
+        "./src/commands/upgradeDeps/utils/getDependencyVersion.ts",
+        1
+      ],
+      [
+        "./src/commands/upgradeDeps/utils/getLatestVersion.ts",
+        1
+      ],
+      [
+        "./src/commands/watch/handler.ts",
+        1
+      ],
+      [
+        "./src/commands/watch/index.ts",
+        1
+      ],
+      [
+        "./src/index.ts",
+        1
+      ],
+      [
+        "./src/utils/assert.ts",
+        1
+      ],
+      [
+        "./src/utils/changeset-git.ts",
+        1
+      ],
+      [
+        "./src/utils/getPackage.ts",
+        1
+      ],
+      [
+        "./src/utils/getSolutionStatus.ts",
+        1
+      ],
+      [
+        "./src/utils/paths.ts",
+        1
+      ],
+      [
+        "./src/utils/supportMessages.ts",
+        1
+      ],
+      [
+        "./src/utils/types/index.ts",
+        1
+      ],
+      [
+        "./src/utils/types/package.json.typings.ts",
+        1
+      ],
+      [
+        "./src/webpack/builder.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/BUNDLE_ANALYZER_PLUGIN.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/COPY_PLUGIN.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/DEFAULT_DEV_PLUGINS.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/DEFAULT_PLUGINS.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/DEFAULT_PROD_PLUGINS.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/DUPLICATE_PACKAGE_CHECKER_PLUGIN.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/GIT_REVISION_PLUGINS.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/HTML_WEBPACK_PLUGINS.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPlugins/const/PACKAGE_LOADER_PLUGIN.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPlugins/getPlatformEnvironment.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPlugins/getPlugins.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPlugins/interface/GetPlugins.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPluginsMinimizer/const/OPTIMIZER_CSS_ASSETS_PLUGIN.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPluginsMinimizer/const/TERSET_PLUGIN.ts",
+        1
+      ],
+      [
+        "./src/webpack/components/getPluginsMinimizer/getPluginsMinimizer.ts",
+        1
+      ],
+      [
+        "./src/webpack/const/threadLoader.ts",
+        1
+      ],
+      [
+        "./src/webpack/interface/BuildOptions.ts",
+        1
+      ],
+      [
+        "./src/webpack/packageLoader/abstractCopier.ts",
+        1
+      ],
+      [
+        "./src/webpack/packageLoader/compilerFS.ts",
+        1
+      ],
+      [
+        "./src/webpack/packageLoader/index.ts",
+        1
+      ],
+      [
+        "./src/webpack/packageLoader/packageCopier.ts",
+        1
+      ],
+      [
+        "./src/webpack/packageLoader/packageSymlinker.ts",
+        1
+      ],
+      [
+        "./src/webpack/paths.ts",
+        1
+      ],
+      [
+        "./src/webpack/typeScriptFormatter.ts",
+        1
+      ],
+      [
+        "./src/webpack/webpack.config.ts",
+        1
+      ],
+      [
+        "./src/webpack/webpackProxyConfigs/getComposeProxyConfig.ts",
+        1
+      ],
+      [
+        "./src/webpack/webpackProxyConfigs/getCustomProxyConfig.ts",
+        1
+      ],
+      [
+        "./src/webpack/webpackProxyConfigs/getKuberProxyConfig.ts",
+        1
+      ],
+      [
+        "./src/webpack/webpackProxyConfigs/getSettingsByEnvironment.ts",
+        1
+      ],
+      [
+        "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2015.d.ts",
+        1
+      ],
+      [
+        "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2016.d.ts",
+        1
+      ],
+      [
+        "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2017.d.ts",
+        1
+      ],
+      [
+        "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2018.d.ts",
+        1
+      ],
+      [
+        "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2019.d.ts",
+        1
+      ],
+      [
+        "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.es2020.d.ts",
+        1
+      ],
+      [
+        "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.esnext.d.ts",
+        1
+      ],
+      [
+        "../../../../../../../var/.nvm/versions/node/v15.4.0/lib/node_modules/typescript/lib/lib.esnext.full.d.ts",
+        1
+      ]
+    ]
+  },
+  "version": "4.1.3"
+}

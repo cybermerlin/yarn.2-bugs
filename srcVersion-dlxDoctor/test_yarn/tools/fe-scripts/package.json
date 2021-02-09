@@ -1,0 +1,49 @@
+{
+  "name": "@pcbl-tools/fe-scripts",
+  "version": "0.0.1",
+  "description": "",
+  "bin": {
+    "pcbl": "./bin/index.js"
+  },
+  "peerDependencies": {
+    "dayjs": "*"
+  },
+  "dependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "cross-spawn": "^6.0.5",
+    "fs-extra": "^9.0.1",
+    "react-dev-utils": "^8.0.0",
+    "semver": "7.3.2",
+    "spawndamnit": "^2.0.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^4.0.2",
+    "webpack": "^4.30.0",
+    "yargs": "^16.0.3"
+  },
+  "devDependencies": {
+    "@types/autoprefixer": "^9.7.2",
+    "@types/babel__code-frame": "^7.0.1",
+    "@types/brotli-webpack-plugin": "^1.1.0",
+    "@types/compression-webpack-plugin": "^4.0.0",
+    "@types/copy-webpack-plugin": "^6.0.0",
+    "@types/cross-spawn": "^6.0.2",
+    "@types/duplicate-package-checker-webpack-plugin": "^2.1.0",
+    "@types/express": "^4.17.7",
+    "@types/git-revision-webpack-plugin": "^3.0.0",
+    "@types/mini-css-extract-plugin": "^0.9.1",
+    "@types/optimize-css-assets-webpack-plugin": "^5.0.1",
+    "@types/postcss-flexbugs-fixes": "^4.2.0",
+    "@types/postcss-safe-parser": "^4.0.0",
+    "@types/progress-bar-webpack-plugin": "^2.1.0",
+    "@types/react-dev-utils": "^9.0.4",
+    "@types/semver": "^7.3.4",
+    "@types/sharp": "^0.25.0",
+    "@types/terser-webpack-plugin": "^4.2.0",
+    "@types/webpack": "^4.41.21",
+    "@types/webpack-bundle-analyzer": "^3.8.0",
+    "@types/webpack-dev-server": "^3.11.0",
+    "@types/yargs": "^15.0.5",
+    "babel-jest": "^26.6.1",
+    "file-loader": "^6.1.0"
+  }
+}
